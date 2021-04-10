@@ -1,0 +1,9 @@
+.navbar{
+  display:inline-block;
+}
+
+.navbar ul{
+  list-style: none;
+  background-color: blue;
+  margin: 0;
+}
