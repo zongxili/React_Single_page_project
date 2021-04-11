@@ -12,6 +12,7 @@ class NavigationBar extends React.Component {
           <TopNavigationBarItem value='Pages'></TopNavigationBarItem>
           <TopNavigationBarItem value='App'></TopNavigationBarItem>
           <TopNavigationBarItem value='Docs'></TopNavigationBarItem>
+          <TopNavigationBarItem value='afjgasdkfgaakfjwefgkjawefgawjhkefgaewjl'></TopNavigationBarItem>
         </ul>
       </div>
 
